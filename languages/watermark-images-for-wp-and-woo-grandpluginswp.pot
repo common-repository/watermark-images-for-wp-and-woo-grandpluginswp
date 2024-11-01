@@ -1,0 +1,702 @@
+# Copyright (C) 2024 GrandPlugins
+# This file is distributed under the same license as the Grand Watermark Images [[GrandPlugins]] plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Grand Watermark Images [[GrandPlugins]] 1.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gpls-wmfw-watermark-images-for-wordpress-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-02T08:29:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: watermark-images-for-wp-and-woo-grandpluginswp\n"
+
+#. Plugin Name of the plugin
+#: C:\laragon\www\WatermarkImages\wp-content\plugins\gpls-wmfw-watermark-images-for-wordpress-pro\gpls-wmfw-watermark-image-for-wordpress.php
+msgid "Grand Watermark Images [[GrandPlugins]]"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: C:\laragon\www\WatermarkImages\wp-content\plugins\gpls-wmfw-watermark-images-for-wordpress-pro\gpls-wmfw-watermark-image-for-wordpress.php
+msgid "https://grandplugins.com/product/wp-images-watermark/"
+msgstr ""
+
+#. Description of the plugin
+#: C:\laragon\www\WatermarkImages\wp-content\plugins\gpls-wmfw-watermark-images-for-wordpress-pro\gpls-wmfw-watermark-image-for-wordpress.php
+msgid "Add Text and Image watermarks to your images in your WordPress website"
+msgstr ""
+
+#. Author of the plugin
+#: C:\laragon\www\WatermarkImages\wp-content\plugins\gpls-wmfw-watermark-images-for-wordpress-pro\gpls-wmfw-watermark-image-for-wordpress.php
+msgid "GrandPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:\laragon\www\WatermarkImages\wp-content\plugins\gpls-wmfw-watermark-images-for-wordpress-pro\gpls-wmfw-watermark-image-for-wordpress.php
+msgid "https://profiles.wordpress.org/grandplugins/"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:128
+#: includes/class-single-apply-watermarks.php:102
+#: includes/class-watermarks-templates.php:277
+#: includes/Settings.php:139
+msgid "Select images"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:129
+#: includes/class-watermarks-templates.php:278
+msgid "Preview Image"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:130
+#: includes/class-watermarks-templates.php:279
+#: templates/create-watermarks-template-metabox.php:22
+msgid "Select Preview Image"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:131
+#: includes/class-single-apply-watermarks.php:104
+#: includes/class-watermarks-templates.php:280
+msgid "Select Watermark"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:132
+#: includes/class-single-apply-watermarks.php:105
+#: includes/class-watermarks-templates.php:281
+msgid "Choose Watermark"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:133
+#: includes/class-single-apply-watermarks.php:107
+#: includes/class-watermarks-templates.php:284
+msgid "Search Term"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:134
+msgid "The selected watermark is bigger than the GIF"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:158
+#: includes/class-single-apply-watermarks.php:134
+msgid "Apply rules are empty!"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:166
+msgid "Watermarks Template is empty!"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:196
+msgid "Watermarks Template has been applied successfully on selected images"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:196
+msgid "Media Library"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:216
+#: includes/class-single-apply-watermarks.php:197
+#: includes/class-watermarks-templates.php:396
+msgid "The link has expired, please refresh the page!"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:261
+#: includes/class-single-apply-watermarks.php:235
+msgid "Failed to create watermarked image file!"
+msgstr ""
+
+#: includes/class-apply-watermarks-templates.php:277
+#: includes/class-single-apply-watermarks.php:251
+msgid "Failed to create watermarked attachment!"
+msgstr ""
+
+#: includes/class-image-edit-page.php:68
+msgid "Subsizes"
+msgstr ""
+
+#: includes/class-image-edit-page.php:198
+msgid "Restore selected size from the original image, proceed?"
+msgstr ""
+
+#: includes/class-image-edit-page.php:199
+msgid "Backup image will be deleted, proceed?"
+msgstr ""
+
+#: includes/class-image.php:38
+msgid "Image file does not exist %s"
+msgstr ""
+
+#: includes/class-image.php:99
+msgid "Image file sub-size: %s not found!"
+msgstr ""
+
+#: includes/class-image.php:106
+msgid "image file %s not found!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:101
+#: includes/class-watermarks-templates.php:276
+msgid "Watermark"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:103
+msgid "Select Image"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:106
+#: includes/class-watermarks-templates.php:282
+msgid "The selected watermark is bigger than the image"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:108
+#: includes/class-watermarks-templates.php:285
+msgid "Search Terms"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:109
+msgid "Maximum %d watermarks can be added in Free Version"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:110
+#: includes/class-watermarks-templates.php:287
+msgid "You are about to remove a watermark, confirm?"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:142
+msgid "No selected image!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:158
+msgid "No sizes selected!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:188
+msgid "Watermarks have been applied successfully!"
+msgstr ""
+
+#: includes/class-watermark-base.php:105
+msgid "Preview Image is expired, Please click on Preview Watermarks button again!"
+msgstr ""
+
+#: includes/class-watermark-base.php:124
+msgid "Unable to connect to the filesystem"
+msgstr ""
+
+#: includes/class-watermark-base.php:134
+msgid "Unable to save the preview image"
+msgstr ""
+
+#: includes/class-watermark-base.php:166
+msgid "Failed to create watermarked image!"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:182
+msgid "You have reached the maximum watermarks templates!"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:183
+#: templates/bulk-apply-watermarks-template.php:12
+msgid "Upgrade to"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:183
+msgid "for unlimited watermarks templates"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:283
+msgid "Search Author"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:286
+msgid "Maximum "
+msgstr ""
+
+#: includes/class-watermarks-templates.php:306
+msgid "Watermarks"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:307
+msgid "Watermarks Templates"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:308
+msgid "Watermarks Template"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:310
+msgid "Watermarks Templates to be applied on selected images"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:465
+#: templates/single-apply-watermarks-template.php:27
+msgid "Current Watermarks"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:473
+msgid "Create Watermark Template"
+msgstr ""
+
+#: includes/class-watermarks-templates.php:489
+msgid "Auto Apply Settings (Pro)"
+msgstr ""
+
+#: includes/Settings.php:103
+msgid "Premium"
+msgstr ""
+
+#: includes/Settings.php:138
+msgid "Only True Type fonts are allowed"
+msgstr ""
+
+#: includes/Settings.php:159
+msgid "no file uploaded!"
+msgstr ""
+
+#: includes/Settings.php:198
+msgid "file upload is failed!"
+msgstr ""
+
+#: includes/Settings.php:209
+msgid "file already exists!"
+msgstr ""
+
+#: includes/Settings.php:243
+msgid "file is empty!"
+msgstr ""
+
+#: includes/Settings.php:262
+msgid "File type is invalid!"
+msgstr ""
+
+#: includes/Settings.php:273
+msgid "Failed to create directory for custom fonts!"
+msgstr ""
+
+#: includes/Settings.php:287
+msgid "The uploaded file could not be moved to %s."
+msgstr ""
+
+#: includes/Settings.php:305
+msgid "Font file is added successfully!"
+msgstr ""
+
+#: includes/Settings.php:331
+#: includes/Settings.php:332
+#: templates/settings-page-template.php:12
+msgid "Settings"
+msgstr ""
+
+#: includes/Settings.php:340
+#: includes/Settings.php:341
+msgid "Single Editor"
+msgstr ""
+
+#: includes/Settings.php:349
+#: includes/Settings.php:350
+msgid "Bulk Apply"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:21
+msgid "No %s yet:"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:34
+msgid "Select posts: "
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:40
+msgid "Select"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:49
+msgid "Select posts by filters: "
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:57
+#: templates/apply-watermarks-templates-by-posts-template.php:94
+msgid "( Any of )"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:57
+msgid "Available Status:"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:129
+msgid "All Posts"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:130
+#: templates/apply-watermarks-templates-by-posts-template.php:138
+msgid "Selected Posts"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:150
+#: templates/apply-watermarks-templates-by-posts-template.php:209
+msgid "Title"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:153
+#: templates/apply-watermarks-templates-by-posts-template.php:212
+#: templates/apply-watermarks-templates-by-posts-template.php:277
+msgid "Date"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:156
+msgid "Actions"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:168
+msgid "Select posts to search in"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:183
+msgid "items"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:205
+msgid "Select All"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:233
+msgid "Images found in selected posts"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:245
+msgid "item"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:271
+msgid "File"
+msgstr ""
+
+#: templates/apply-watermarks-templates-by-posts-template.php:274
+msgid "Attached to"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:12
+msgid "Set rules to apply the watermarks template automatically on uploaded images ( Pro )"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:18
+msgid "Enable auto apply"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:24
+msgid "Image Dimensions Constraint"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:26
+msgid "Apply the template on images that have min|max width and height."
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:58
+msgid "Image name prefix"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:59
+msgid "Apply the template on images that start with a prefix name"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:60
+msgid "Add a prefix"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:64
+msgid "Upload Location"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:65
+msgid "Select where the template should be applied on uploaded images"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:96
+msgid "Apply Type"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:101
+msgid "Overwrite"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:103
+#: templates/bulk-apply-watermarks-template.php:96
+msgid "Overwrite the original image"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:109
+msgid "Create Backup"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:111
+#: templates/bulk-apply-watermarks-template.php:129
+msgid "Create backup of the original image"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:118
+msgid "Create New"
+msgstr ""
+
+#: templates/auto-apply-watermarks-template-metabox.php:120
+#: templates/bulk-apply-watermarks-template.php:89
+#: templates/single-apply-watermarks-template.php:126
+msgid "Create a separate watermarked image"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:12
+#: templates/create-watermarks-template-metabox.php:11
+#: templates/single-apply-watermarks-template.php:15
+msgid "for full features"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:18
+msgid "Bulk Apply Watermarks Template"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:19
+msgid "Select watermarks template and apply it on Bulk images"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:28
+msgid "Select Watermarks Template"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:31
+msgid "-- Select Watermarks Template --"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:42
+msgid "Select Images"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:47
+msgid "Select images directly"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:48
+msgid "Select images from media"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:53
+msgid "Select Images by posts ( Pro )"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:54
+msgid "Select images attached to posts [ images uploaded to posts - featured images - WooCommerce products gallery ]"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:62
+#: templates/create-watermarks-template-metabox.php:25
+#: templates/single-apply-watermarks-template.php:48
+msgid "Media Gallery"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:82
+msgid "How to apply the watermarks template"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:87
+#: templates/single-apply-watermarks-template.php:125
+msgid "Create new"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:94
+#: templates/single-apply-watermarks-template.php:159
+msgid "Overwrite ( Pro )"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:103
+#: templates/single-apply-watermarks-template.php:134
+msgid "Select sizes to create"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:104
+msgid "Select sizes to apply the watermarks template on"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:109
+#: templates/single-apply-watermarks-template.php:140
+msgid "Original"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:125
+msgid "Original Backup"
+msgstr ""
+
+#: templates/bulk-apply-watermarks-template.php:137
+msgid "Apply"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:11
+#: templates/single-apply-watermarks-template.php:15
+msgid "Upgrade to "
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:16
+msgid "Watermarks template is used for auto watermarking and Bulk watermarking"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:22
+msgid "You can select an image to try out and preview the watermarks on it, watermarks wont be applied on the preview image"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:29
+#: templates/single-apply-watermarks-template.php:52
+msgid "Add Watermark"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:32
+#: templates/single-apply-watermarks-template.php:55
+msgid "Image Watermark"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:36
+#: templates/single-apply-watermarks-template.php:59
+msgid "Text Watermark"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:80
+#: templates/single-apply-watermarks-template.php:103
+msgid "Preview Watermarks"
+msgstr ""
+
+#: templates/create-watermarks-template-metabox.php:81
+#: templates/single-apply-watermarks-template.php:104
+msgid "This will show how the watermarks will be applied on images, It is applied on a separate image which is created temporarily for the preview"
+msgstr ""
+
+#: templates/settings-page-template.php:14
+msgid "Custom Font files"
+msgstr ""
+
+#: templates/settings-page-template.php:15
+msgid "Upload custom font files for Text Watermarks"
+msgstr ""
+
+#: templates/settings-page-template.php:15
+msgid "only allowed"
+msgstr ""
+
+#: templates/settings-page-template.php:23
+msgid "Available Fonts Files"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:18
+msgid "Single Image Watermarks Editor"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:19
+msgid "Select a single image and apply watermarks on it"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:45
+msgid "Select image"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:119
+msgid "How to apply the watermarks"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:135
+msgid "Select sizes to apply the watermarks on"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:160
+msgid "Overwrite the image"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:165
+msgid "Apply Watermarks"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:16
+msgid "Width"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:26
+msgid "Height"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:37
+msgid "Text"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:43
+msgid "Color"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:49
+msgid "Font Size"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:55
+msgid "Font Family"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:68
+msgid "Opacity ( Pro )"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:75
+msgid "Position"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:76
+msgid "Select which side on the image which the watermark will be placed at."
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:92
+msgid "Relative to center ( Pro )"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:93
+msgid "Set offset and rotation relative to the watermark's center instead of the watermark's left-top corner"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:98
+msgid "Offset"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:99
+msgid "The offset is calculated from the side's left-top corner which is selected from the position above"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:103
+msgid "Pixels"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:107
+msgid "percentage ( Pro )"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:112
+msgid "Left"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:125
+msgid "Top"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:162
+msgid "Repeat"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:168
+msgid "Repeat Axis"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:182
+msgid "Repeat Axis Offset"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:186
+msgid "X Axis"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:193
+msgid "Y Axis"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:204
+msgid "Rotation"
+msgstr ""
